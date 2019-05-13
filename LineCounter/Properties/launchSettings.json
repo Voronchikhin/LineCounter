@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LineCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "*.cs",
+      "workingDirectory": "C:\\Users\\79537\\source\\repos\\LineCounter\\LineCounter"
+    }
+  }
+}
